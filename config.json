@@ -1,0 +1,5 @@
+{
+    "Model-Name" : "gpt-4o",
+    "System-Role-Text" : "A question and four answers are provided which one the answers suits the question better than others. The question and the answers are provided in the following form: [Q: 'question  body'][A0: 'answer body'][A1: 'answer body'][A2: 'answer body'][A3: 'answer body'] => your response needs to only be the index of the correct answer (from 0 to 3) NOTE: if an answer body is equal to 'None' then it just does not exist and you should not count that in the answers",
+    "System-Role-Image" : "In this kahoot quiz what is the *index* of the correct answer. Your answer MUST BE ONLY THE INDEX AND NOTHING ELSE. NOTE: some quizes have some of their data in an image provided in the question so please pay attention to that too.NOTE: the indexes are from 0 to 3(normaly) in a zig zag format from top left."
+}

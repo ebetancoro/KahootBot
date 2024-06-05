@@ -1,5 +1,0 @@
-{
-    "API-Key" : "YOUR_API_KEY",
-    "Model-Name" : "gpt-4",
-    "System-Role" : "A question and four answers are provided which one the answers suits the question better than others. The question and the answers are provided in the following form: [Q: 'question  body'][A0: 'answer body'][A1: 'answer body'][A2: 'answer body'][A3: 'answer body'] => your response needs to only be the index of the correct answer (from 0 to 3)"
-}
